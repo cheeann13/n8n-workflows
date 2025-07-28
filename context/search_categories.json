@@ -153,7 +153,7 @@
   },
   {
     "filename": "0039_Calendly_Notion_Automate_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0040_Mattermost_Noop_Automate_Triggered.json",
@@ -169,7 +169,7 @@
   },
   {
     "filename": "0043_Humanticai_Calendly_Automate_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0044_Trello_Googlecloudnaturallanguage_Automate_Triggered.json",
@@ -277,7 +277,7 @@
   },
   {
     "filename": "0070_Splitinbatches_Notion_Export_Scheduled.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0071_Pipedrive_Update_Triggered.json",
@@ -385,7 +385,7 @@
   },
   {
     "filename": "0097_Executecommand_Mailgun_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0098_Manual_Segment_Monitor_Triggered.json",
@@ -497,7 +497,7 @@
   },
   {
     "filename": "0125_Calendly_Notion_Automate_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0126_Error_Slack_Automate_Triggered.json",
@@ -561,11 +561,11 @@
   },
   {
     "filename": "0141_Notion_Webhook_Create_Webhook.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0142_Notion_Webhook_Create_Webhook.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0143_HTTP_Gitlab_Automation_Webhook.json",
@@ -857,7 +857,7 @@
   },
   {
     "filename": "0215_Typeform_Clickup_Automation_Triggered.json",
-    "category": "Project Management"
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0216_Manual_N8Ntrainingcustomerdatastore_Automation_Triggered.json",
@@ -873,7 +873,7 @@
   },
   {
     "filename": "0219_Manual_Snowflake_Create_Triggered.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "0220_Readbinaryfile_Manual_Automate_Triggered.json",
@@ -953,7 +953,7 @@
   },
   {
     "filename": "0239_Code_Typeform_Create_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0240_Manual_Gmail_Create_Triggered.json",
@@ -989,7 +989,7 @@
   },
   {
     "filename": "0248_Openai_Telegram_Automate_Triggered.json",
-    "category": "Communication & Messaging"
+    "category": "AI Agent Development"
   },
   {
     "filename": "0249_Pipedrive_Stickynote_Create_Webhook.json",
@@ -1045,7 +1045,7 @@
   },
   {
     "filename": "0262_Typeform_Spreadsheetfile_Automate_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0263_Postgres_Code_Automation_Webhook.json",
@@ -1085,7 +1085,7 @@
   },
   {
     "filename": "0272_Notion_GoogleDrive_Create_Triggered.json",
-    "category": "Cloud Storage & File Management"
+    "category": "Project Management"
   },
   {
     "filename": "0273_Code_Webhook_Create_Webhook.json",
@@ -1105,7 +1105,7 @@
   },
   {
     "filename": "0277_Calendly_Mautic_Create_Triggered.json",
-    "category": "Marketing & Advertising Automation"
+    "category": "Project Management"
   },
   {
     "filename": "0278_Shopify_Mautic_Create_Triggered.json",
@@ -1121,7 +1121,7 @@
   },
   {
     "filename": "0281_Stickynote_Notion_Create_Webhook.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0282_Clickup_Notion_Update_Triggered.json",
@@ -1185,7 +1185,7 @@
   },
   {
     "filename": "0297_Manual_Openai_Export_Triggered.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "0298_Code_Readpdf_Send_Triggered.json",
@@ -1333,7 +1333,7 @@
   },
   {
     "filename": "0334_Openai_Form_Create_Triggered.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "0335_Filter_Telegram_Send_Triggered.json",
@@ -1341,7 +1341,7 @@
   },
   {
     "filename": "0336_Manual_Snowflake_Automation_Webhook.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "0337_Manual_Stickynote_Automation_Webhook.json",
@@ -1509,7 +1509,7 @@
   },
   {
     "filename": "0378_Stickynote_Notion_Automate_Webhook.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0379_Code_Pipedrive_Create_Triggered.json",
@@ -1553,7 +1553,7 @@
   },
   {
     "filename": "0389_Manual_Googleanalytics_Import_Triggered.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "0390_HTTP_Manual_Automation_Webhook.json",
@@ -1717,7 +1717,7 @@
   },
   {
     "filename": "0430_Calendly_Filter_Create_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0431_Filter_Convertkit_Create_Triggered.json",
@@ -1853,7 +1853,7 @@
   },
   {
     "filename": "0464_Openai_Form_Create_Webhook.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "0465_Telegram_Filter_Send_Scheduled.json",
@@ -1897,7 +1897,7 @@
   },
   {
     "filename": "0475_Googleanalytics_Code_Automate_Scheduled.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "0476_Manual_Youtube_Create_Triggered.json",
@@ -1933,7 +1933,7 @@
   },
   {
     "filename": "0484_Form_Stickynote_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0485_HTTP_Stickynote_Create_Webhook.json",
@@ -2253,7 +2253,7 @@
   },
   {
     "filename": "0564_Supabase_Stickynote_Create_Triggered.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "0565_Webhook_Slack_Automation_Webhook.json",
@@ -2289,11 +2289,11 @@
   },
   {
     "filename": "0573_Stickynote_Notion_Send_Webhook.json",
-    "category": "Marketing & Advertising Automation"
+    "category": "Project Management"
   },
   {
     "filename": "0574_Stickynote_Notion_Create_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0575_Editimage_Manual_Update_Webhook.json",
@@ -2301,7 +2301,7 @@
   },
   {
     "filename": "0576_Respondtowebhook_Form_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0577_Code_Editimage_Update_Webhook.json",
@@ -2413,7 +2413,7 @@
   },
   {
     "filename": "0604_Jiratool_Schedule_Create_Scheduled.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0605_Code_Itemlists_Create_Scheduled.json",
@@ -2569,7 +2569,7 @@
   },
   {
     "filename": "0643_Splitout_Snowflake_Import_Scheduled.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "0644_Webhook_Slack_Create_Webhook.json",
@@ -2581,7 +2581,7 @@
   },
   {
     "filename": "0646_Extractfromfile_Form_Export_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0647_GoogleCalendar_Form_Create_Triggered.json",
@@ -2637,11 +2637,11 @@
   },
   {
     "filename": "0660_Calendly_Noop_Create_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0661_Calendly_Noop_Create_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "0662_Manual_Schedule_Automation_Scheduled.json",
@@ -2785,7 +2785,7 @@
   },
   {
     "filename": "0697_Aggregate_Typeform_Create_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0698_Splitout_Code_Automation_Triggered.json",
@@ -2929,7 +2929,7 @@
   },
   {
     "filename": "0733_Form_Code_Create_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0734_Manual_HTTP_Create_Webhook.json",
@@ -3133,11 +3133,11 @@
   },
   {
     "filename": "0784_Code_Form_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0785_Openai_Twitter_Create.json",
-    "category": "Social Media Management"
+    "category": "AI Agent Development"
   },
   {
     "filename": "0786_Stopanderror_Stickynote_Create_Webhook.json",
@@ -3217,11 +3217,11 @@
   },
   {
     "filename": "0805_Form_Html_Create_Triggered.json",
-    "category": "Web Scraping & Data Extraction"
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0806_Googlebigquery_Stickynote_Automate_Triggered.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "0807_Telegram_Wait_Send_Triggered.json",
@@ -3977,7 +3977,7 @@
   },
   {
     "filename": "0995_Manual_Mailgun_Automate_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "0996_Manual_Hackernews_Create_Triggered.json",
@@ -4033,7 +4033,7 @@
   },
   {
     "filename": "1009_Calendly_Automate_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1010_Jotform_Automate_Triggered.json",
@@ -4069,7 +4069,7 @@
   },
   {
     "filename": "1018_Typeform_Airtable_Automation_Triggered.json",
-    "category": "Data Processing & Analysis"
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1019_Manual_Paddle_Create_Triggered.json",
@@ -4137,7 +4137,7 @@
   },
   {
     "filename": "1035_Jira_Automate_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1036_Error_Twilio_Send_Triggered.json",
@@ -4405,7 +4405,7 @@
   },
   {
     "filename": "1102_Manual_Openai_Automation_Triggered.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "1103_Googletaskstool_Telegram_Automation_Webhook.json",
@@ -4677,7 +4677,7 @@
   },
   {
     "filename": "1170_Manual_Jira_Create_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1171_HTTP_Cron_Automation_Scheduled.json",
@@ -4705,7 +4705,7 @@
   },
   {
     "filename": "1177_Openai_GoogleSheets_Create_Triggered.json",
-    "category": "Data Processing & Analysis"
+    "category": "AI Agent Development"
   },
   {
     "filename": "1178_Code_HTTP_Automation_Webhook.json",
@@ -4713,7 +4713,7 @@
   },
   {
     "filename": "1179_Error_Mailgun_Automate_Triggered.json",
-    "category": "Technical Infrastructure & DevOps"
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1180_Rssfeedread_Htmlextract_Create_Scheduled.json",
@@ -4825,7 +4825,7 @@
   },
   {
     "filename": "1207_Typeform_Demio_Automate_Triggered.json",
-    "category": "Communication & Messaging"
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1208_Quickbooks_Automate.json",
@@ -4893,7 +4893,7 @@
   },
   {
     "filename": "1224_Apitemplateio_Typeform_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1225_Manual_Asana_Create_Triggered.json",
@@ -5013,7 +5013,7 @@
   },
   {
     "filename": "1254_Extractfromfile_Form_Automate_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1255_Webhook_Respondtowebhook_Automate_Webhook.json",
@@ -5021,7 +5021,7 @@
   },
   {
     "filename": "1256_Openai_Form_Automation_Triggered.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "1257_Code_Webhook_Automation_Webhook.json",
@@ -5261,7 +5261,7 @@
   },
   {
     "filename": "1316_Form_Stickynote_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1317_Code_Schedule_Export_Scheduled.json",
@@ -5309,7 +5309,7 @@
   },
   {
     "filename": "1328_Jiratool_Schedule_Automate_Scheduled.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1329_Splitout_Editimage_Automate_Triggered.json",
@@ -5389,7 +5389,7 @@
   },
   {
     "filename": "1348_Form_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1349_HTTP_Slack_Automation_Webhook.json",
@@ -5677,7 +5677,7 @@
   },
   {
     "filename": "1420_Form_Extractfromfile_Automate_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1421_Postgres_Googlecloudnaturallanguage_Automation_Scheduled.json",
@@ -5761,7 +5761,7 @@
   },
   {
     "filename": "1441_Form_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1442_Noop_Stickynote_Automation_Triggered.json",
@@ -5817,7 +5817,7 @@
   },
   {
     "filename": "1455_Respondtowebhook_Form_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1456_Wait_HTTP_Automation_Webhook.json",
@@ -5917,7 +5917,7 @@
   },
   {
     "filename": "1480_Googleanalytics_Code_Automation_Webhook.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "1481_HTTP_Form_Send_Webhook.json",
@@ -5949,7 +5949,7 @@
   },
   {
     "filename": "1488_Extractfromfile_Form_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1489_Splitout_Code_Automation_Webhook.json",
@@ -5969,7 +5969,7 @@
   },
   {
     "filename": "1493_Extractfromfile_Form_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1494_Microsofttodo_Webhook_Automation_Webhook.json",
@@ -6001,7 +6001,7 @@
   },
   {
     "filename": "1501_Extractfromfile_Form_Automate_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1502_Webhook_Slack_Automate_Webhook.json",
@@ -6113,7 +6113,7 @@
   },
   {
     "filename": "1529_Googleanalytics_Code_Automation_Webhook.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "1530_HTTP_Stickynote_Automation_Webhook.json",
@@ -6169,7 +6169,7 @@
   },
   {
     "filename": "1543_Manual_Openai_Automation_Triggered.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "1544_Aggregate_Schedule_Send_Scheduled.json",
@@ -6269,11 +6269,11 @@
   },
   {
     "filename": "1568_Stickynote_Notion_Automation_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1569_Stickynote_Notion_Automation_Webhook.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1570_Filter_Summarize_Automation_Triggered.json",
@@ -6413,7 +6413,7 @@
   },
   {
     "filename": "1604_Manual_Openai_Automation_Triggered.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "1605_Code_Editimage_Automation_Webhook.json",
@@ -6425,7 +6425,7 @@
   },
   {
     "filename": "1607_Schedule_Notion_Sync_Scheduled.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1608_Respondtowebhook_Stickynote_Automation_Webhook.json",
@@ -6441,7 +6441,7 @@
   },
   {
     "filename": "1611_Form_Stickynote_Automate_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1612_Webhook_Code_Automate_Webhook.json",
@@ -6469,7 +6469,7 @@
   },
   {
     "filename": "1618_Openai_GoogleSheets_Create_Triggered.json",
-    "category": "Data Processing & Analysis"
+    "category": "AI Agent Development"
   },
   {
     "filename": "1619_Code_Pipedrive_Automation_Triggered.json",
@@ -6517,7 +6517,7 @@
   },
   {
     "filename": "1630_Code_Form_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1631_HTTP_Telegram_Automation_Webhook.json",
@@ -6541,7 +6541,7 @@
   },
   {
     "filename": "1636_Manual_Openai_Automation_Triggered.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "1637_Splitout_Code_Automation_Triggered.json",
@@ -6593,7 +6593,7 @@
   },
   {
     "filename": "1649_Form_Extractfromfile_Automate_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1650_Manual_Stickynote_Automation_Webhook.json",
@@ -6605,7 +6605,7 @@
   },
   {
     "filename": "1652_Googleanalytics_Code_Automation_Webhook.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "1653_Code_Webhook_Send_Webhook.json",
@@ -6673,7 +6673,7 @@
   },
   {
     "filename": "1669_Manual_Openai_Automation_Triggered.json",
-    "category": ""
+    "category": "AI Agent Development"
   },
   {
     "filename": "1670_Code_Schedule_Automation_Webhook.json",
@@ -6705,7 +6705,7 @@
   },
   {
     "filename": "1677_Supabase_Stickynote_Automation_Triggered.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "1678_Splitout_Code_Automation_Webhook.json",
@@ -6717,7 +6717,7 @@
   },
   {
     "filename": "1680_Supabase_Stickynote_Automation_Triggered.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "1681_Airtoptool_Slack_Automation_Triggered.json",
@@ -6725,7 +6725,7 @@
   },
   {
     "filename": "1682_Stickynote_Notion_Automation_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1683_Compression_Manual_Automation_Webhook.json",
@@ -6737,7 +6737,7 @@
   },
   {
     "filename": "1685_Openai_Telegram_Automate_Triggered.json",
-    "category": "Communication & Messaging"
+    "category": "AI Agent Development"
   },
   {
     "filename": "1686_Telegram_Stickynote_Automate_Triggered.json",
@@ -6789,7 +6789,7 @@
   },
   {
     "filename": "1698_Stickynote_Notion_Automation_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1699_Code_Editimage_Automation_Webhook.json",
@@ -7045,7 +7045,7 @@
   },
   {
     "filename": "1762_Form_Aggregate_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1763_Wait_Schedule_Automation_Webhook.json",
@@ -7073,7 +7073,7 @@
   },
   {
     "filename": "1769_Jira_Stickynote_Sync_Triggered.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1770_Webhook_Extractfromfile_Automation_Webhook.json",
@@ -7385,7 +7385,7 @@
   },
   {
     "filename": "1847_Extractfromfile_Form_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1848_Postgrestool_Stickynote_Automation_Triggered.json",
@@ -7441,7 +7441,7 @@
   },
   {
     "filename": "1861_Code_Form_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1862_Code_Respondtowebhook_Automation_Webhook.json",
@@ -7461,7 +7461,7 @@
   },
   {
     "filename": "1866_Manual_Supabase_Automation_Triggered.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "1867_Schedule_Filter_Sync_Scheduled.json",
@@ -7541,7 +7541,7 @@
   },
   {
     "filename": "1886_Form_Markdown_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1887_Webhook_Respondtowebhook_Automate_Webhook.json",
@@ -7785,7 +7785,7 @@
   },
   {
     "filename": "1947_Stickynote_Supabasetool_Automation_Triggered.json",
-    "category": ""
+    "category": "Data Processing & Analysis"
   },
   {
     "filename": "1948_Error_Telegram_Send_Triggered.json",
@@ -7825,7 +7825,7 @@
   },
   {
     "filename": "1957_Form_Stickynote_Automation_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1958_Code_Slack_Send_Triggered.json",
@@ -7869,7 +7869,7 @@
   },
   {
     "filename": "1968_Form_Stickynote_Automation_Webhook.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1969_Code_Stickynote_Automation_Triggered.json",
@@ -7921,7 +7921,7 @@
   },
   {
     "filename": "1981_Extractfromfile_Form_Automate_Triggered.json",
-    "category": ""
+    "category": "Marketing & Advertising Automation"
   },
   {
     "filename": "1982_Telegram_Splitout_Automation_Scheduled.json",
@@ -7941,7 +7941,7 @@
   },
   {
     "filename": "1986_Stickynote_Jira_Create_Webhook.json",
-    "category": ""
+    "category": "Project Management"
   },
   {
     "filename": "1987_Stickynote_Airtable_Create_Triggered.json",
@@ -8213,7 +8213,7 @@
   },
   {
     "filename": "2054_Deep_Research_Report_Generation_With_Open_Router_Google_Search_Webhook_Telegram_and_Notion.json",
-    "category": "Web Scraping & Data Extraction"
+    "category": "Communication & Messaging"
   },
   {
     "filename": "generate-collaborative-handbooks-with-gpt4o-multi-agent-orchestration-human-review.json",
