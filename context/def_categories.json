@@ -88,6 +88,10 @@
       "category": "Web Scraping & Data Extraction"
     },
     {
+      "integration": "Calendly",
+      "category": "Project Management"
+    },
+    {
       "integration": "ChargeBee",
       "category": "Financial & Accounting"
     },
@@ -236,6 +240,14 @@
       "category": "Communication & Messaging"
     },
     {
+      "integration": "GoogleAnalytics",
+      "category": "Data Processing & Analysis"
+    },
+    {
+      "integration": "GoogleBigQuery",
+      "category": "Data Processing & Analysis"
+    },
+    {
       "integration": "GoogleBooks",
       "category": "Web Scraping & Data Extraction"
     },
@@ -316,6 +328,10 @@
       "category": "Marketing & Advertising Automation"
     },
     {
+      "integration": "Jira",
+      "category": "Project Management"
+    },
+    {
       "integration": "Keap",
       "category": "CRM & Sales"
     },
@@ -353,6 +369,10 @@
     },
     {
       "integration": "Mailerlite",
+      "category": "Marketing & Advertising Automation"
+    },
+    {
+      "integration": "Mailgun",
       "category": "Marketing & Advertising Automation"
     },
     {
@@ -434,6 +454,14 @@
     {
       "integration": "NextCloud",
       "category": "Cloud Storage & File Management"
+    },
+    {
+      "integration": "Notion",
+      "category": "Project Management"
+    },
+    {
+      "integration": "OpenAI",
+      "category": "AI Agent Development"
     },
     {
       "integration": "OpenThesaurus",
@@ -572,6 +600,10 @@
       "category": "Communication & Messaging"
     },
     {
+      "integration": "Snowflake",
+      "category": "Data Processing & Analysis"
+    },
+    {
       "integration": "Spontit",
       "category": "Communication & Messaging"
     },
@@ -602,6 +634,10 @@
     {
       "integration": "SummarizationChain",
       "category": "AI Agent Development"
+    },
+    {
+      "integration": "Supabase",
+      "category": "Data Processing & Analysis"
     },
     {
       "integration": "Taiga",
@@ -650,6 +686,10 @@
     {
       "integration": "Twitter",
       "category": "Social Media Management"
+    },
+    {
+      "integration": "Typeform",
+      "category": "Marketing & Advertising Automation"
     },
     {
       "integration": "UnleashedSoftware",
